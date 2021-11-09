@@ -38,7 +38,7 @@
 @media screen and (min-width: 1440px) {
   .card__left {
     text-align: start;
-    padding: 60px 140px 30px 70px;
+    padding: 60px 110px 30px 70px;
   }
 }
 .card__left--header {
@@ -145,7 +145,7 @@ body {
 @media screen and (min-width: 1440px) {
   .card__left {
     text-align: start;
-    padding: 60px 140px 30px 70px;
+    padding: 60px 110px 30px 70px;
   }
 }
 .card__left--header {
