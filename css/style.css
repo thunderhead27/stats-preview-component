@@ -50,6 +50,7 @@
   .card__left--header {
     font-size: 36px;
     margin-bottom: 25px;
+    line-height: 44px;
   }
 }
 .card__left--header em {
@@ -157,6 +158,7 @@ body {
   .card__left--header {
     font-size: 36px;
     margin-bottom: 25px;
+    line-height: 44px;
   }
 }
 .card__left--header em {
